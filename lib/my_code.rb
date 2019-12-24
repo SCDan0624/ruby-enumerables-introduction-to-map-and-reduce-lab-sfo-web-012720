@@ -64,3 +64,5 @@ def reduce_to_all_true(array)
   
   return true 
 end
+
+def 

@@ -54,4 +54,7 @@ def reduce_to_total(array,starting = 0)
   total 
 end
 
-def 
+def reduce_to_all_true(array)
+  i = 0 
+  
+end

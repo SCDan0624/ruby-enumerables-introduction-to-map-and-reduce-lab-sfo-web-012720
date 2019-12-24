@@ -53,5 +53,13 @@ def reduce_to_total(array)
 end 
 
 def reduce_to_total(array,starting)
+    i = 0 
+    total = starting
   
+  while i < array.length do 
+    total += array[i]
+    i += 1
+  end
+  
+  total 
 end

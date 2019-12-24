@@ -52,7 +52,7 @@ def reduce_to_total(array)
   total 
 end 
 
-def reduce_to_total(array,starting)
+def reduce_to_total(array,starting = 0)
     i = 0 
     total = starting
   
